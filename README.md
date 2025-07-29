@@ -5,6 +5,7 @@ QuoteSpark is your daily companion for motivation, inspiration, and personal gro
 
 💬 100+ hand-picked motivational quotes
 
+
 🎯 Tap to copy or share instantly
 
 📱 Clean, modern Jetpack Compose UI
